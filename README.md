@@ -1,18 +1,22 @@
-<img width="3504" height="1184" alt="mylearnphoto" src="https://github.com/user-attachments/assets/75f7a641-7f70-4dad-82c9-a6948ead333c" />
+<h1 align="center">Hi 👋, I'm Ganesh Verma</h1>
+<h3 align="center">BTech CSE Student | Full Stack Developer | Cybersecurity Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ganesh+Verma;Full+Stack+Developer;Learning+Cybersecurity;React+%7C+Node.js+%7C+MongoDB" />
+  <img width="100%" alt="mylearnphoto" src="https://github.com/user-attachments/assets/75f7a641-7f70-4dad-82c9-a6948ead333c" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ganesh Verma</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ganesh+Verma;BTech+CSE+Student;Learning+Full+Stack+Development;Building+Projects+with+React+Node+Express+MongoDB;Future+Cybersecurity+Engineer" />
+</p>
 
 <img align="right" width="400" alt="coding" src="https://github.com/user-attachments/assets/c1906003-3166-4037-81a4-7af35cfd973d" />
 
 ---
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **Full Stack Development**
+- 💻 Building projects with **React, Node.js, Express & MongoDB**
+- 🔐 Interested in **Cybersecurity**
 - 📫 How to reach me **vermaganesh753@gmail.com**
-- ⚡ Fun fact **I am funny 👍🏼**
 
 ---
 
@@ -57,15 +61,24 @@
 </p>
 
 ---
+## 🚀 Projects
 
-<!-- <p align="center">
+- 🏠 RentEase – Full Stack House Rental Platform (React, Node.js, Express, MongoDB)
+- 🛒 Amazon Clone
+- 🎤 Voice Assistant (Python)
+- 💱 Currency Converter
+- 📱 QR Code Generator
+- ✅ Todo App
+---
+
+ <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ganeshcoder05&show_icons=true&theme=tokyonight" />
-</p> -->
+</p> 
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshcoder05&theme=tokyonight" />
 </p>
 
-<!-- <p align="center">
+ <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshcoder05&layout=compact&theme=tokyonight" />
-</p> -->
+</p>
