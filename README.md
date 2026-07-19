@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganesh Verma</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ganesh Verma</h1> -->
 <h3 align="center">BTech CSE Student | Full Stack Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
